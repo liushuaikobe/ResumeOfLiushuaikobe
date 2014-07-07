@@ -1,7 +1,7 @@
 ResumeOfLiushuaikobe
 ====================
 
-Résumé of me.
+[Résumé of me.](http://blog.vars.me/ResumeOfLiushuaikobe/)
 
 Visit [vars.me](http://vars.me) for more info.
 
