@@ -1,0 +1,118 @@
+{
+  "bio": {
+    "firstName": "刘",
+    "lastName": "帅",
+    "email": {
+      "work": "liushuaikobe1993@163.com",
+      "personal": "liushuaikobe@gmail.com"
+    },
+    "phone": {
+      "work": "(+86) 18945690489"
+    },
+    "summary": "爱技术、爱产品、爱互联网，喜欢活泼的环境，表达能力较强，对待工作认真负责，对待技术踏实肯钻研，有较强的自学能力，看到自己做的东西有很大的成就感，Github粉，梦想有一天成为一个Geek",
+    "location": {
+      "city": "杭州",
+      "countryCode": "CN",
+      "state": "浙江"
+    },
+    "websites": {
+      "blog": "http://vars.me"
+    },
+    "profiles": {
+      "github": "liushuaikobe",
+      "twitter": "liushuaikobe"
+    }
+  },
+  "work": [
+    {
+      "company": "Alibaba",
+      "position": "R&D Engineer",
+      "website": "http://www.aliexpress.com/",
+      "startDate": "2014-07-14",
+      "endDate": "至今",
+      "summary": "Focus on iOS developing"
+    }
+  ],
+  "education": [
+    {
+      "institution": "哈尔滨工业大学",
+      "startDate": "2010-09-01",
+      "endDate": "2014-06-27",
+      "area": "软件工程",
+      "studyType": "工学学士",
+      "courses": [
+        "操作系统 - 94分",
+        "算法分析与设计 - 91分",
+        "编译原理 - 84分",
+        "计算机组成原理 - 90分",
+        "计算机网络 - 83分"
+      ]
+    }
+  ],
+  "awards": [
+    {
+      "title": "人民奖学金",
+      "date": "2013-12-01"
+    },
+    {
+      "title": "第四届“蓝桥杯”软件大赛全国二等奖(Java组)",
+      "date": "2013-07-01"
+    },
+    {
+      "title": "第三届“Android 应用开发中国大学生挑战赛”东北赛区三等奖",
+      "date": "2012-12-01"
+    },
+    {
+      "title":"“美国大学生数学建模竞赛”二等奖(Honorable Mention)",
+      "date":"2013-04-01"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web 开发-前端",
+      "level": "Entry",
+      "keywords": [
+        "Javascript",
+        "CoffeeScript"
+      ]
+    },
+    {
+      "name": "Web 开发-后端",
+      "level": "Average",
+      "keywords": [
+        "Django",
+        "Tornado",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "移动开发",
+      "level": "Familiar",
+      "keywords": [
+        "Java",
+        "Android",
+        "iOS"
+      ]
+    },
+    {
+      "name": "运维",
+      "level": "Familiar",
+      "keywords": [
+        "Python",
+        "Linux",
+        "MongoDB",
+        "Redis"
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "GitRadar",
+      "reference": "本科毕业设计，基于GitHub描述开发者行为的开放数据实现的开发者能力评价系统，使用MongoDB以及Redis作为数据存储，使用Python和Node.js开发（http://goo.gl/a00dpX）"
+    },
+    {
+      "name": "科学网Android客户端",
+      "reference": "IT生涯第一个外包项目，基于HTTP使用XML传递信息的科学网Android端阅读器，已上线使用（http://goo.gl/DSYQOd）"
+    }
+  ]
+}
